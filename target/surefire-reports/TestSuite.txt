@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 55.347 s <<< FAILURE! - in TestSuite
+Resources.FirstE2EProject.VerifyTitle.titleexecution  Time elapsed: 10.416 s  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<......> but was:<...123...>
+	at Resources.FirstE2EProject.VerifyTitle.titleexecution(VerifyTitle.java:24)
+
